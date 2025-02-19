@@ -28,11 +28,7 @@ const HomePage = () => {
     <>
       <ProgramCard theme={defaultTheme} />
       <UniversityPortal />
-      <Aboutus />
-      <CoursesGrid />
-      <AdmissionProcess />
-      <SalaryStats />
-      <ReviewComponent />
+      
     </>
   );
 };
